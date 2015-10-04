@@ -1,7 +1,7 @@
 ## Módulo Sistema Central
 
 #### Diagrama de Casos de Uso
-![Diagrama](https://github.com/avandrevitor/hidroino/blob/master/project/artifacts/diagrams_of_use_cases/Module%203%20-%20Diagram%20.png)
+![Diagrama](https://github.com/avandrevitor/hidroino/blob/master/project/artifacts/diagrams_of_use_cases/module3_diagram%20.jpg)
 
 #### Quadro Descritivo de Atores
 
@@ -14,7 +14,7 @@
 
 |Identificação |Descrição |
 |---	|---	|
-|CSU-??| [Configurar Avisos Visuais e/ou Auditivos]()
+|CSU-18| [Configurar Avisos Visuais e/ou Auditivos](https://github.com/avandrevitor/hidroino/blob/master/project/artifacts/csu-18.md)
 |CSU-06| [Configurar API Pública](https://github.com/avandrevitor/hidroino/blob/master/project/artifacts/csu-06.md)|
 |CSU-10| [Exportar Dados Capturados das Estufas](https://github.com/avandrevitor/hidroino/blob/master/project/artifacts/csu-10.md)|
 |CSU-11| [Exportar Dados Capturados do Consumo de Hardware](https://github.com/avandrevitor/hidroino/blob/master/project/artifacts/csu-11.md)|

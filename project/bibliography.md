@@ -73,6 +73,7 @@
 - http://www.embarcados.com.br/arduino-uno
 - https://www.arduino.cc/en/Main/arduinoBoardUno
 - http://imasters.com.br/linguagens/php/php-google-app-engine
+- http://imasters.com.br/linguagens/php/padroes-tabledatagateway-e-tablerowgateway-teoria-e-pratica
 - https://cloud.google.com/appengine/docs/php/gettingstarted/helloworld
 - http://php.net/manual/pt_BR/history.php.php
 

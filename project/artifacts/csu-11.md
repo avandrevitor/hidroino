@@ -1,15 +1,15 @@
 |   	|	    |
 |---	|---	|
-|**Identificação do Caso de Uso:**||
-|**Nome do Caso de Uso:**||
-|**Objetivo:**||
-|**Pré-Condição do Caso de Uso:**||
-|**Ator(es):**||
-|**Evento inicial do Caso de Uso:**||
-|**Fluxo Principal:**|<ul></ul>| 
-|**Fluxo Alternativo:**||
-|**Fluxo de Exceção:**|<ul></ul>|
-|**Pós-Condição do Caso de Uso:**||
-|**Casos de Uso Incluídos:**||
-|**Casos de Uso Estendidos:**||
-|**Regras de Negócios Relacionadas:**|<ol></ol>|
+|**Identificação do Caso de Uso:**|[CSU-11](https://github.com/avandrevitor/hidroino/blob/master/project/artifacts/table_use_of_cases.md)|
+|**Nome do Caso de Uso:**|Exportar Dados Capturados do Consumo de Hardware|
+|**Objetivo:**|Serialização dos dados acomulados para formato e extensão requeridos|
+|**Pré-Condição do Caso de Uso:**|Existir dados registrados previamente|
+|**Ator(es):**|Não há|
+|**Evento inicial do Caso de Uso:**|Não há|
+|**Fluxo Principal:**|<ul><li>Sistema filtra dados de Consumo de Hardware exigidos.</li><li>Sistema exporta dados no formato e extensão exigidos.</li><li>Sistema retorna dados extraidos.</li></ul>| 
+|**Fluxo Alternativo:**|Não há|
+|**Fluxo de Exceção:**|Não há|
+|**Pós-Condição do Caso de Uso:**|Não há|
+|**Casos de Uso Incluídos:**|Não há|
+|**Casos de Uso Estendidos:**|Não há|
+|**Regras de Negócios Relacionadas:**|Não há|

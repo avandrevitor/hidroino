@@ -1,7 +1,7 @@
 ## Módulo Sistema Cluster de Estufas
 
 #### Diagrama de Casos de Uso
-![Diagrama](https://github.com/avandrevitor/hidroino/blob/master/project/artifacts/diagrams_of_use_cases/Module%202%20-%20Diagram.png)
+![Diagrama](https://github.com/avandrevitor/hidroino/blob/master/project/artifacts/diagrams_of_use_cases/module2_diagram.jpg)
 
 #### Quadro Descritivo de Atores
 

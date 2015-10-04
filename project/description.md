@@ -1,1 +1,3 @@
 ## Descrição
+
+O Sistema de Automação e Controle de Ambiente em Mini-Estufas Hidropônicas divide-se em dois módulos principais: o de Controle do Ambiente e o de Configuração e Administração de Ambientes. O objetivo deste projeto, destina-se a desenvolver o sistema de software que receberá dados de módulos de Controle do Ambiente, confrontará esses dados com configurações pré-estabelecidas e retornará informações para controle dos ambientes. Permitirá também a manutenção dos dados e configurações de ambientes de mini-estufa e a disponibilização de informações para administração desses ambientes. Um dos requisitos mais importantes que este módulo deverá atender será a capacidade de gerenciar mais de uma mini-estufa simultaneamente.

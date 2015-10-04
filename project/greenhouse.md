@@ -1,7 +1,7 @@
 ## Módulo Estufa
 
 #### Diagrama de Casos de Uso
-![Diagrama](https://github.com/avandrevitor/hidroino/blob/master/project/artifacts/diagrams_of_use_cases/Module%201%20-%20Diagram.png)
+![Diagrama](https://github.com/avandrevitor/hidroino/blob/master/project/artifacts/diagrams_of_use_cases/module1_diagram.jpg)
 
 #### Quadro Descritivo de Atores
 
