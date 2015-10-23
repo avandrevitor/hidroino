@@ -1,70 +1,29 @@
 ## Bibliografia
 
-#### Titulo:   Primeiros Passos com o Arduino
-- Autor:    Massimo Banzi
-- Editora:  O'Reilly / Novatec
-- ISBN:     978-85-7522-290-4
-- Edição:   1º - Dezembro/2011
+Sobrenome, Nome. Nome do Livro. Edição.Cidade. Editora, ANo
 
-#### Título:   Primeiros Passos com o Raspberry Pi
-- Autor:   Matt Richardson e Shawn Wallace
-- Editora:  Maker Media / Novatec 
-- ISBN:     978-85-7522-345-1
-- Edição:   1º - Março/2013
+BANZI, Massino. Primeiros Passos com o Arduino. 1º ed, São Paulo: O'Reilly / Novatec, 2011.
 
-#### Título:   Web Services em PHP
-- Autor:    Lorna Jane Mitchell
-- Editora:  O'Reilly / Novatec
-- ISBN:     978-85-7522-369-7
-- Edição:   1º - Junho/2013
+RICHARDSON,Matt e  WALLACE, Shaw. Primeiros Passos com o Raspberry Pi. 1º ed, São Paulo: Maker Media / Novatec, 2013.
 
-#### Título:   RESTFUL Serviços Web
-- Autor:   Leonard Richardson e Sam Ruby
-- Editora:  O'Reilly / ALTA BOOKS
-- ISBN:     
-- Edição:   2007
+MITCHELL, Lorna Jane. Web Services em PHP. 1º ed, São Paulo:  O'Reilly / Novatec, 2013.
 
-#### Título:   Aprendendo Padrões de Projeto em PHP
-- Autor:    Willian Sanders
-- Editora:  O'Reilly / Novatec
-- ISBN:     978-85-7522-343-7
-- Edição:   1º - Maio/2013
+RICHARDSON, Leonard e RUBY, SAM. RESTFUL Serviços Web. 1º ed, São Paulo: O'Reilly / ALTA BOOKS, 2007.
 
-#### Título:   PHP Moderno
-- Autor:    Josh Lockhart
-- Editora:  O'Reilly / Novatec
-- ISBN:     978-85-7522-428-1
-- Edição:   1º - Abril/2015
+SANDERS, Willian. Aprendendo Padrões de Projeto em PHP. 1º ed, São Paulo: O'Reilly / Novatec , 2013.
 
-#### Título:   Padrões de Projeto
-- Autor:    Erich Gamma , Richard Helm, Ralph Johnson, John Vlissides
-- Editora:  Bookman
-- ISBN:     978-85-7307-610-3
-- Edição:   Reimpressão 2008
+LOCKHART, Josh. PHP Moderno. 1º ed, São Paulo: O'Reilly / Novatec , 2015.
 
-#### Título:   Redes, Guia Prático
-- Autor:    Carlos Eduardo Morimoto
-- Editora:  Sul Editores
-- ISBN:     978-85-99593-11-0
-- Edição:   2º - Reimpressão 2010
+GAMMA, Erich; HELM, Richard; Johnson, Ralph e Vlissides, John. Padrões de Projeto. Reimpressão, São Paulo: Bookman, 2008.
 
-#### Título:   Servidores Linux, Guia Prático
-- Autor:    Carlos Eduardo Morimoto
-- Editora:  Sul Editores
-- ISBN:     978-85-99593-13-4
-- Edição:   5º - Reimpressão 2013
+MORIMOTO, Carlos Eduardo. Redes, Guia Prático, 2º ed, São Paulo: Sul Editores, 2010.
 
-#### Título:   Shell Script Profissional
-- Autor:    Aurelio Marinho Jargas
-- Editora:  Novatec
-- ISBN:     978-85-7522-152-5
-- Edição:   6º - Reimpressão - Agosto/2013
+MORIMOTO, Carlos Eduardo. Servidores Linux, Guia Prático, 5º ed, São Paulo: Sul Editores, 2013.
 
-#### Título:   Padrão de Aplicações Corporativas
-- Autor:    Martin Fowler
-- Editora:  Bookman
-- ISBN:     978-85-7780-064-3
-- Edição:   Reimpressão 2009
+JARGAS, Aurelio Marinho. Shell Script Profissional, 6º ed, São Paulo: Novatec,2013.
+
+FOWLER, Martin. Padrão de Aplicações Corporativas, Reimpressão, São Paulo: Bookman,2013.
+
 
 ### Links
 - http://www.ohwr.org
