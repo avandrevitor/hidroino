@@ -20,4 +20,7 @@ MORIMOTO, Carlos Eduardo. Servidores Linux, Guia Prático, 5º ed, São Paulo: S
 
 JARGAS, Aurelio Marinho. Shell Script Profissional, 6º ed, São Paulo: Novatec,2013.
 
-FOWLER, Martin. Padrão de Aplicações Corporativas, Reimpressão, São Paulo: Bookman,2013.
+FOWLER, Martin. Padrões de Arquitetura de Aplicações Corporativas/ Martin Fowler; Trad. Acauan Fernandes.-Porto Alegre: Bookman, 2006.
+
+FOWLER, Martin. UML essencial: um breve guia para a linguagem padrão de modelagem de objetos/ Martin Fowler e Kendal Scott; Trad. Vera Pezerico e Chirstian Thomas Price.- 2 ed – Porto Alegre: Bookman,2000.
+
